@@ -1,0 +1,189 @@
+# Reading C:/Quartus/modelsim_ase/tcl/vsim/pref.tcl
+# Loading project mini_proj1
+vsim -gui work.ip_telem
+# vsim -gui work.ip_telem 
+# Start time: 12:01:47 on Dec 10,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.ip_telem(rtl)
+add wave sim:/ip_telem/*
+force -freeze sim:/ip_telem/clk 1 0, 0 {10 ps} -r 20
+force -freeze sim:/ip_telem/rst 1 0
+run
+run
+force -freeze sim:/ip_telem/rst 0 0
+run
+run
+run
+run -all
+restart
+force -freeze sim:/ip_telem/echo 1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+force -freeze sim:/ip_telem/echo 0 0
+run
+# End time: 12:06:34 on Dec 10,2019, Elapsed time: 0:04:47
+# Errors: 0, Warnings: 0

@@ -1,0 +1,12 @@
+C:/Users/3670879/Desktop/MINIPROJET1/IP_TELEM.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/3670879/Desktop/MINIPROJET1/IP_TELEM.vhd
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity IP_TELEM
+-- Compiling architecture RTL of IP_TELEM
+
+} {} {}}
